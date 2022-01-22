@@ -1,0 +1,15 @@
+{
+  "short_name": "Block Calendar",
+  "name": "Block Calendar",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "54*54"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
